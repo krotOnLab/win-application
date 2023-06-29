@@ -1,4 +1,5 @@
- Логины и пароли для доступа к приложению:'postgres':'passwfordb',
+https://drive.google.com/file/d/1ZixDBwuEmiH-v4E5QKNBe7bmKOkwx8Dd/view?usp=sharing  - ссылка на собранное приложение, которому необходима собранная БД и включенный сервер
+Логины и пароли для доступа к приложению:'postgres':'passwfordb',
 					  'viewer':'manager
 
 
